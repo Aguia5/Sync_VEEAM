@@ -1,0 +1,16 @@
+2024-12-04 14:56:22,843 - INFO - Starting synchronization...
+2024-12-04 14:56:22,843 - INFO - Source: /home/gonca/veeam/source
+2024-12-04 14:56:22,843 - INFO - Replica: /home/gonca/veeam/replica
+2024-12-04 14:56:22,843 - INFO - Sync interval: 30 seconds
+2024-12-04 14:59:55,600 - INFO - Starting synchronization...
+2024-12-04 14:59:55,600 - INFO - Source: /home/gonca/veeam/source
+2024-12-04 14:59:55,600 - INFO - Replica: /home/gonca/veeam/replica
+2024-12-04 14:59:55,600 - INFO - Sync interval: 30 seconds
+2024-12-04 14:59:55,601 - INFO - Copied/Updated: /home/gonca/veeam/source/test_file.txt -> /home/gonca/veeam/replica/./test_file.txt
+2024-12-04 14:59:55,601 - INFO - Created directory: /home/gonca/veeam/replica/subfolder
+2024-12-04 14:59:55,601 - INFO - Copied/Updated: /home/gonca/veeam/source/subfolder/another_file.txt -> /home/gonca/veeam/replica/subfolder/another_file.txt
+2024-12-04 15:00:55,603 - INFO - Copied/Updated: /home/gonca/veeam/source/test_file.txt -> /home/gonca/veeam/replica/./test_file.txt
+2024-12-04 15:04:49,846 - INFO - Starting synchronization...
+2024-12-04 15:04:49,846 - INFO - Source: /home/gonca/veeam/source
+2024-12-04 15:04:49,846 - INFO - Replica: /home/gonca/veeam/replica
+2024-12-04 15:04:49,846 - INFO - Sync interval: 30 seconds
